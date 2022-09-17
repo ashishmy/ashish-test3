@@ -1,0 +1,7 @@
+This is a demo file
+Changes done to check the command
+
+
+git fetch 
+git merge
+git pull -> git fetch + git merge
